@@ -20,14 +20,14 @@ const HomeCards = () => {
             Browse Parties
           </Link>
         </Card>
-        <Card bg='bg-indigo-100'>
+        <Card bg='bg-blue-100'>
         <h2 className="text-2xl font-bold">For Venues & DJs</h2>
           <p className="mt-2 mb-4">
             List your Event or Party to be added to the Escandalo & Friends Party Page
           </p>
           <Link
             to="/add-job"
-            className="inline-block bg-indigo-500 text-white rounded-lg px-4 py-2 hover:bg-indigo-600"
+            className="inline-block bg-blue-800 text-white rounded-lg px-4 py-2 hover:bg-blue-500"
           >
             Add Event
           </Link>

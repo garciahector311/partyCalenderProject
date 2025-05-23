@@ -14,75 +14,75 @@
         "contactPhone": "555-555-5555"
       }
     },
-     {
-    "id": "2",
-    "title": "Downtown Music Festival",
-    "type": "Music Festival",
-    "location": "Downtown City Center",
-    "details": "Experience live performances from top artists. Food trucks and craft booths available. Bring your friends and dance the night away!",
-    "coverCharge": "$15 Entry",
-    "host": {
-      "name": "City Events Co.",
-      "description": "Organizers of city-wide festivals, concerts, and community events.",
-      "contactEmail": "contact@cityevents.com",
-      "contactPhone": "555-123-4567"
-    }
-    },
-     {
-    "id": "3",
-    "title": "Garden Tea Party",
-    "type": "Afternoon Tea",
-    "location": "Rose Garden Park",
-    "details": "Relax and enjoy an elegant afternoon with tea, pastries, and live classical music. Dress code: smart casual.",
-    "coverCharge": "$10 per person",
-    "host": {
-      "name": "Elegant Gatherings",
-      "description": "Specializes in hosting refined social events like tea parties, brunches, and garden gatherings.",
-      "contactEmail": "hello@elegantgatherings.com",
-      "contactPhone": "555-987-6543"
-    }
+    {
+      "id": "2",
+      "title": "Downtown Music Festival",
+      "type": "Music Festival",
+      "location": "Downtown City Center",
+      "details": "Experience live performances from top artists. Food trucks and craft booths available. Bring your friends and dance the night away!",
+      "coverCharge": "$5 Entry",
+      "host": {
+        "name": "City Events Co.",
+        "description": "Organizers of city-wide festivals, concerts, and community events.",
+        "contactEmail": "contact@cityevents.com",
+        "contactPhone": "555-123-4567"
+      }
     },
     {
-    "id": "4",
-    "title": "Sunset Yoga Session",
-    "type": "Wellness Event",
-    "location": "Lakeside Park",
-    "details": "Join us for a relaxing sunset yoga session by the lake. All levels welcome. Bring your mat and enjoy the tranquility.",
-    "coverCharge": "Free",
-    "host": {
-      "name": "Peaceful Vibes",
-      "description": "A wellness company focused on outdoor yoga and mindfulness events.",
-      "contactEmail": "contact@peacefulvibes.com",
-      "contactPhone": "555-222-3333"
-    }
+      "id": "3",
+      "title": "Garden Tea Party",
+      "type": "Afternoon Tea",
+      "location": "Rose Garden Park",
+      "details": "Relax and enjoy an elegant afternoon with tea, pastries, and live classical music. Dress code: smart casual.",
+      "coverCharge": "$10 per person",
+      "host": {
+        "name": "Elegant Gatherings",
+        "description": "Specializes in hosting refined social events like tea parties, brunches, and garden gatherings.",
+        "contactEmail": "hello@elegantgatherings.com",
+        "contactPhone": "555-987-6543"
+      }
     },
     {
-    "id": "5",
-    "title": "Autumn Harvest Festival",
-    "type": "Community Festival",
-    "location": "Main Street Square",
-    "details": "Celebrate the fall with pumpkin carving, hayrides, live folk music, and local food vendors. Fun for all ages!",
-    "coverCharge": "$5 Admission",
-    "host": {
-      "name": "Harvest Helpers",
-      "description": "Organizers of seasonal community events and festivals.",
-      "contactEmail": "info@harvesthelpers.com",
-      "contactPhone": "555-444-5555"
-    }
+      "id": "4",
+      "title": "Sunset Yoga Session",
+      "type": "Wellness Event",
+      "location": "Lakeside Park",
+      "details": "Join us for a relaxing sunset yoga session by the lake. All levels welcome. Bring your mat and enjoy the tranquility.",
+      "coverCharge": "Free",
+      "host": {
+        "name": "Peaceful Vibes",
+        "description": "A wellness company focused on outdoor yoga and mindfulness events.",
+        "contactEmail": "contact@peacefulvibes.com",
+        "contactPhone": "555-222-3333"
+      }
     },
     {
-    "id": "6",
-    "title": "Starry Night Movie Night",
-    "type": "Outdoor Cinema",
-    "location": "City Park",
-    "details": "Enjoy a classic film under the stars. Bring blankets and snacks. Screen starts at sunset.",
-    "coverCharge": "Free",
-    "host": {
-      "name": "Movie Mingle",
-      "description": "Specializes in outdoor movie nights and community gatherings.",
-      "contactEmail": "hello@moviemingle.com",
-      "contactPhone": "555-666-7777"
-    }
+      "id": "5",
+      "title": "Autumn Harvest Festival",
+      "type": "Community Festival",
+      "location": "Main Street Square",
+      "details": "Celebrate the fall with pumpkin carving, hayrides, live folk music, and local food vendors. Fun for all ages!",
+      "coverCharge": "$5 Admission",
+      "host": {
+        "name": "Harvest Helpers",
+        "description": "Organizers of seasonal community events and festivals.",
+        "contactEmail": "info@harvesthelpers.com",
+        "contactPhone": "555-444-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Starry Night Movie Night",
+      "type": "Outdoor Cinema",
+      "location": "City Park",
+      "details": "Enjoy a classic film under the stars. Bring blankets and snacks. Screen starts at sunset.",
+      "coverCharge": "Free",
+      "host": {
+        "name": "Movie Mingle",
+        "description": "Specializes in outdoor movie nights and community gatherings.",
+        "contactEmail": "hello@moviemingle.com",
+        "contactPhone": "555-666-7777"
+      }
     }
   ]
 }

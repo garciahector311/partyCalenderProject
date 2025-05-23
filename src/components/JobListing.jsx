@@ -38,11 +38,11 @@ if (!showFullDescription) {
       </div>
 
       <button onClick={ () => setShowFullDescription((prevState) =>
-        !prevState)} className="text-indigo-500 mb-5 hover:text-indigo-600">
+        !prevState)} className="text-blue-800 mb-5 hover:text-blue-500">
         {showFullDescription ? 'Less' : 'More' }
         </button>
 
-      <h3 className="text-indigo-500 mb-2">{job.coverCharge}/ All Night</h3>
+      <h3 className="text-blue-800 mb-2">{job.coverCharge}/ All Night</h3>
 
       <div className="border border-gray-100 mb-5"></div>
 
@@ -53,7 +53,7 @@ if (!showFullDescription) {
         </div>
         <Link
           to={`/jobs/${job.id}`}
-          className="h-[36px] bg-indigo-500 hover:bg-indigo-600 text-white px-4 py-2 rounded-lg text-center text-sm"
+          className="h-[36px] bg-blue-800 hover:bg-blue-500 text-white px-4 py-2 rounded-lg text-center text-sm"
         >
          Read More
         </Link>
