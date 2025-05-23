@@ -14,11 +14,11 @@ const [showFullDescription, setShowFullDescription] = useState(false);
 
 // }
 
-let description = job.description;
+let description = job.details;
 
 if (!showFullDescription) {
   // Use optional chaining to avoid errors if job.description is undefined
-  description = job.description?.substring(0, 90) || '';
+  description = job.details?.substring(0, 90) || '';
   // Append '...' if description isn't empty
   if (description) {
     description += '...';
@@ -42,7 +42,7 @@ if (!showFullDescription) {
         {showFullDescription ? 'Less' : 'More' }
         </button>
 
-      <h3 className="text-indigo-500 mb-2">{job.salary}/ Year</h3>
+      <h3 className="text-indigo-500 mb-2">{job.coverCharge}/ All Night</h3>
 
       <div className="border border-gray-100 mb-5"></div>
 
